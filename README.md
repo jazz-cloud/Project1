@@ -1,6 +1,8 @@
 # Project Name
 National Wealth and Covid 19 Global Impact
 
+![shutterstock_1723543669](https://user-images.githubusercontent.com/74483428/105628352-7bc8f080-5e90-11eb-8f07-e9c0d07236c8.jpg)
+
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
