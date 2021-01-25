@@ -30,6 +30,8 @@ Histogram will be used to list out the frequency distribution, central tendency.
 
 We found that our data set had such a large number of values that we struggled to create scatter plots that were readable. We decided to clean up the data by choosing to narrow our scope to better illustrate different areas of our data.  
 
+[Our presentation slide](https://docs.google.com/presentation/d/1IVxIKx6Hwh8SMD9wYgioWpidDdyapg7p00RlPzBdtH4/edit?usp=sharing)
+
 ## Needs of this project
 - Describe the core message
 - Described the questions of interest
