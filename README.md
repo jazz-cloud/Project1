@@ -40,6 +40,12 @@ We found that our data set had such a large number of values that we struggled t
 - Described the analysis process
 - Summarised conclusions
 
+## Questions asked 
+1.Do countries with higher Hospital Beds per Thousand are expected to have fewer Total Covid Deaths?  
+2.As a country’s median age increases, so will the number of Covid 19 deaths.
+3.Total Deaths will be lower in countries with higher GDP.
+4.Total Deaths as a percentage of Covid cases will decrease in countries with higher GDP.
+
 ## Author & Contributor List
 * Jazz
 * Diana
