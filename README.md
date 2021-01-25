@@ -13,7 +13,7 @@ The purpose of this project is to gain insight into the global trends relating t
 * Boxplot 
 * Data Visualization
 
-### Technologies
+### Technologies & Techniques
 * Pandas
 * Jupyter
 * Missingno
