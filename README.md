@@ -46,7 +46,6 @@ We found that our data set had such a large number of values that we struggled t
 3.Total Deaths will be lower in countries with higher GDP.
 4.Total Deaths as a percentage of Covid cases will decrease in countries with higher GDP.
 
-
 ## Author & Contributor List
 * Jazz
 * Diana
